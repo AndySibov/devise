@@ -1,0 +1,126 @@
+VR_naam,jaar,ambulances,standplaatsen,inzetten,Provincie
+Groningen,2019,39,13,56675,Groningen
+Groningen,2018,42,13,56911,Groningen
+Groningen,2017,43,13,54062,Groningen
+Groningen,2016,37,13,53623,Groningen
+Groningen,2015,38,13,50410,Groningen
+Friesland,2019,39,24,52923,Friesland
+Friesland,2018,39,23,50748,Friesland
+Friesland,2017,39,23,50023,Friesland
+Friesland,2016,38,23,49411,Friesland
+Friesland,2015,38,22,46704,Friesland
+Drenthe,2019,25,14,44199,Drenthe
+Drenthe,2018,23,14,43604,Drenthe
+Drenthe,2017,23,15,42444,Drenthe
+Drenthe,2016,23,16,42132,Drenthe
+Drenthe,2015,24,16,39573,Drenthe
+IJsselland,2019,29,12,38640,Overijssel
+IJsselland,2018,29,12,35234,Overijssel
+IJsselland,2017,30,12,34719,Overijssel
+IJsselland,2016,30,12,34205,Overijssel
+IJsselland,2015,30,11,33227,Overijssel
+Twente,2019,32,9,42001,Overijssel
+Twente,2018,30,9,40778,Overijssel
+Twente,2017,29,9,40825,Overijssel
+Twente,2016,26,9,40348,Overijssel
+Twente,2015,26,9,38234,Overijssel
+Noordoost Gelderland,2019,33,10,49893,Gelderland
+Noordoost Gelderland,2018,33,9,47365,Gelderland
+Noordoost Gelderland,2017,33,9,48207,Gelderland
+Noordoost Gelderland,2016,33,9,48330,Gelderland
+Noordoost Gelderland,2015,32,9,45114,Gelderland
+Midden Gelderland,2019,25,7,44377,Gelderland
+Midden Gelderland,2018,24,7,44313,Gelderland
+Midden Gelderland,2017,23,7,44283,Gelderland
+Midden Gelderland,2016,23,7,43749,Gelderland
+Midden Gelderland,2015,23,7,41525,Gelderland
+Gelderland Zuid,2019,27,7,41630,Gelderland
+Gelderland Zuid,2018,23,8,42241,Gelderland
+Gelderland Zuid,2017,25,8,40284,Gelderland
+Gelderland Zuid,2016,20,8,39736,Gelderland
+Gelderland Zuid,2015,27,8,38249,Gelderland
+Utrecht,2019,51,12,92166,Utrecht
+Utrecht,2018,51,11,92218,Utrecht
+Utrecht,2017,51,11,92283,Utrecht
+Utrecht,2016,48,11,93385,Utrecht
+Utrecht,2015,46,11,90038,Utrecht
+Noord Holland Noord,2019,32,9,44614,Noord Holland
+Noord Holland Noord,2018,32,9,44016,Noord Holland
+Noord Holland Noord,2017,29,9,43303,Noord Holland
+Noord Holland Noord,2016,29,9,44289,Noord Holland
+Noord Holland Noord,2015,28,9,41047,Noord Holland
+Zaanstreek Waterland,2019,15,4,24326,Noord Holland
+Zaanstreek Waterland,2018,14,4,25170,Noord Holland
+Zaanstreek Waterland,2017,14,4,25611,Noord Holland
+Zaanstreek Waterland,2016,14,4,25670,Noord Holland
+Zaanstreek Waterland,2015,14,4,24323,Noord Holland
+Kennemerland,2019,27,4,45241,Noord Holland
+Kennemerland,2018,26,4,43670,Noord Holland
+Kennemerland,2017,24,4,43679,Noord Holland
+Kennemerland,2016,24,4,46451,Noord Holland
+Kennemerland,2015,24,4,42657,Noord Holland
+Amsterdam Amstelland,2019,53,7,102280,Noord Holland
+Amsterdam Amstelland,2018,53,7,100678,Noord Holland
+Amsterdam Amstelland,2017,53,7,102442,Noord Holland
+Amsterdam Amstelland,2016,53,7,102680,Noord Holland
+Amsterdam Amstelland,2015,53,7,97293,Noord Holland
+Gooi  en Vechtstreek,2019,11,3,18137,Noord Holland
+Gooi  en Vechtstreek,2018,11,3,18192,Noord Holland
+Gooi  en Vechtstreek,2017,11,3,18012,Noord Holland
+Gooi  en Vechtstreek,2016,10,3,18186,Noord Holland
+Gooi  en Vechtstreek,2015,10,3,17741,Noord Holland
+Haaglanden,2019,57,8,98791,Zuid Holland
+Haaglanden,2018,59,8,98155,Zuid Holland
+Haaglanden,2017,52,8,100332,Zuid Holland
+Haaglanden,2016,52,8,100753,Zuid Holland
+Haaglanden,2015,46,8,96800,Zuid Holland
+Hollands Midden,2019,37,9,57392,Zuid Holland
+Hollands Midden,2018,34,9,57745,Zuid Holland
+Hollands Midden,2017,33,9,56260,Zuid Holland
+Hollands Midden,2016,31,9,57037,Zuid Holland
+Hollands Midden,2015,31,9,55119,Zuid Holland
+Rotterdam Rijnmond,2019,72,15,114987,Zuid Holland
+Rotterdam Rijnmond,2018,65,15,112009,Zuid Holland
+Rotterdam Rijnmond,2017,77,14,114812,Zuid Holland
+Rotterdam Rijnmond,2016,78,14,112646,Zuid Holland
+Rotterdam Rijnmond,2015,60,12,107989,Zuid Holland
+Zuid Holland Zuid,2019,18,6,35769,Zuid Holland
+Zuid Holland Zuid,2018,18,7,36035,Zuid Holland
+Zuid Holland Zuid,2017,18,6,35649,Zuid Holland
+Zuid Holland Zuid,2016,18,6,35755,Zuid Holland
+Zuid Holland Zuid,2015,18,6,35062,Zuid Holland
+Zeeland,2019,27,11,29720,Zeeland
+Zeeland,2018,25,11,29144,Zeeland
+Zeeland,2017,26,11,28379,Zeeland
+Zeeland,2016,26,11,28860,Zeeland
+Zeeland,2015,26,11,28325,Zeeland
+Midden West Brabant,2019,55,18,92334,Brabant
+Midden West Brabant,2018,55,18,88883,Brabant
+Midden West Brabant,2017,47,17,86953,Brabant
+Midden West Brabant,2016,50,17,86413,Brabant
+Midden West Brabant,2015,46,17,81586,Brabant
+Brabant Noord,2019,31,7,46937,Brabant
+Brabant Noord,2018,31,7,45941,Brabant
+Brabant Noord,2017,29,7,44664,Brabant
+Brabant Noord,2016,29,7,44803,Brabant
+Brabant Noord,2015,27,7,41800,Brabant
+Brabant Zuidoost,2019,34,9,53400,Brabant
+Brabant Zuidoost,2018,33,9,54558,Brabant
+Brabant Zuidoost,2017,30,7,52874,Brabant
+Brabant Zuidoost,2016,28,7,52601,Brabant
+Brabant Zuidoost,2015,28,4,50252,Brabant
+Noord  en Midden Limburg,2019,24,12,38619,Limburg
+Noord  en Midden Limburg,2018,24,10,37056,Limburg
+Noord  en Midden Limburg,2017,24,11,37449,Limburg
+Noord  en Midden Limburg,2016,22,11,37262,Limburg
+Noord  en Midden Limburg,2015,19,11,37564,Limburg
+Zuid Limburg,2019,25,5,52360,Limburg
+Zuid Limburg,2018,25,5,50958,Limburg
+Zuid Limburg,2017,25,4,48993,Limburg
+Zuid Limburg,2016,24,4,49204,Limburg
+Zuid Limburg,2015,24,4,48526,Limburg
+Flevoland,2019,14,6,28644,Flevoland
+Flevoland,2018,14,6,27222,Flevoland
+Flevoland,2017,14,6,26561,Flevoland
+Flevoland,2016,14,6,25722,Flevoland
+Flevoland,2015,14,6,24136,Flevoland
